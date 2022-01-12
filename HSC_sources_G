@@ -1,0 +1,3 @@
+#? rerun    ra         dec       sw     sh    filter  image  mask variance type
+ Any  167.0447859  7.218009  16asec 16asec HSC-G true  true  true  coadd
+ any  154.7791382  -8.426656 16asec 16asec HSC-G true  true  true  coadd
